@@ -1,0 +1,14 @@
+/target/
+/.gradle/
+/config/
+/bin/
+/build/
+.DS_Store
+/PPT/
+BIKE線稿簡化_座墊加粗.jpg
+BIKE線稿簡化_mini.jpg
+PIC1.jpg
+info.txt
+IGA.java
+Boundary.jar
+Boundary.bat
